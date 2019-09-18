@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import TeamForm from './Components/Form';
+import Form from './Components/Form';
 import TeamList from './Components/Teamlist';
 import data from './data'
 
